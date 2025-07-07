@@ -1,27 +1,21 @@
-# 📘 NÄDAL 2 – Funktsioonid, tsüklid ja võrgu tööriistad
+# 📘 NÄDAL 2 – Failid, funktsioonid ja logide lugemine
 
-## Päev 1: Funktsioonide loomine
-- Kirjuta oma esimene funktsioon, mis tervitab nime alusel.
-- Lisa juurde funktsioon, mis liidab kaks arvu.
+## Päev 1: Faili lugemine
+- Ava logifail
+- Otsi ridasid, mis sisaldavad "Failed password"
 
-## Päev 2: Arvamise mäng `while` tsükliga
-- Fail: `arvamise_mäng.py`
-- Arvuti valib juhuarvu, kasutaja peab ära arvama.
+## Päev 2: Funktsioonid
+- Loo `def` abil parooli kontrollfunktsioon
+- Funktsioon sisendiga ja tagastusega
 
-## Päev 3: Parooligeneraator
-- Fail: `parooligeneraator.py`
-- Kasuta `random` ja `string` mooduleid.
+## Päev 3: Arvamise mäng
+- `while`, `break`, `random`
+- Lisa katsetuste loendur
 
-## Päev 4: Portide skaneerimine
-- Fail: `port_scan.py`
-- Kasuta `socket` moodulit IP-l avatud portide leidmiseks.
+## Päev 4: Faili kirjutamine ja lihtne logi-salvestus
+- Salvesta logist leitud IP-d faili
 
-## Päev 5: Kontrollsumma (SHA256)
-- Fail: `sha256_checker.py`
-- Ava fail ja arvuta tema kontrollsumma `hashlib` abil.
-
-## Päev 6: Faili olemasolu ja otsing
-- Tee skript, mis otsib `.log` faile antud kaustast.
-
-## Päev 7: Kordamine ja enda skripti täiustamine
-- Võta üks nädalas tehtud skript ja täiusta seda funktsioonide või kontrollidega.
+## Päev 5: 🔁 Kordamine
+- Harjutuste ülevaatus
+- Testi oma funktsioone erinevate sisenditega
+- Lisa kommentaarid ja tee väike "logikokkuvõtja"

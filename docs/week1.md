@@ -1,28 +1,23 @@
-# 📘 NÄDAL 1 – Pythoni alused ja esimene logianalüüs
+# 📘 NÄDAL 1 – Pythoni alused ja loogiline mõtlemine
 
-## Päev 1: print() ja skripti käivitamine
-- Õpi `print()` kasutamist ja loo oma esimene skript
-- Fail: `hello_infosec.py`
+## Päev 1: `print()` ja `input()`
+- Loo oma esimene skript
+- Kasutaja nime ja numbri küsimine
 
-## Päev 2: Muutujad ja input()
-- Kasutajalt sisendi küsimine ja muutujate kasutamine
-- Fail: `nimi_ja_number.py`
+## Päev 2: Muutujad ja lihtne arvutus
+- Kasuta `int`, `str`, `f-string`, `**`
+- Näide: ruudu arvutus, keskmise leidmine
 
-## Päev 3: Tingimuslaused (if/else)
-- Kontrolli, kas parool on tugev
-- Fail: `parooli_kontroll.py`
+## Päev 3: Tingimuslaused (`if/else`)
+- Paroolikontrolli skript
+- `len()`, `isalpha()`, `isdigit()`
 
-## Päev 4: Turtle – ruut
-- Joonista ruut turtle mooduliga
-- Fail: `ruut.py`
+## Päev 4: Turtle-graafika ja `for` tsükkel
+- Joonista ruut
+- Muuda nurki ja külgi, eksperimenteeri
 
-## Päev 5: Tsüklid ja listid
-- Arvuta keskmine listist
-- Fail: `keskmine.py`
-
-## Päev 6: Faili lugemine (logi)
-- Loenda „Failed password“ esinemisi logifailis
-- Fail: `authlog_parsing.py`
-
-## Päev 7: Kokkuvõte ja kordamine
-- Korda nädala teemasid ja tee oma miniprojekt
+## Päev 5: 🔁 Kordamine
+- Kirjelda, mida õppisid
+- Käivita uuesti kõik 4 skripti
+- Lisa kommentaarid igasse faili
+- Kirjuta ise 1 uus skript, mis kasutab `if`, `input` ja `print`

@@ -1,15 +1,21 @@
-# 📘 NÄDAL 4 – Mini-projekt ja kokkuvõte
+# 📘 NÄDAL 4 – Mini-projekt ja refleksioon
 
-## Päev 1–3: Planeerimine
-- Vali üks teemadest (logianalüüs, võrgu tööriist, OSINT)
-- Kirjelda oma mini-projekti eesmärk (nt logianalüsaator)
+## Päev 1: Projekti idee ja planeerimine
+- Vali: logianalüüs, võrguanalüüs või OSINT
+- Kirjelda, mida skript teeb ja kellele
 
-## Päev 4–6: Teostus
-- Kirjuta skript/funktsioonid
-- Testi erinevate andmetega
-- Salvesta versioonid ja kirjuta kommentaarid
+## Päev 2: Koodi kirjutamine (osa 1)
+- Kirjuta sisend + loogika (nt IP kontroll, logilugeja)
 
-## Päev 7: Lõppdokumentatsioon ja esitlemine
-- Loo projekti jaoks README
-- Lisa näited, kuidas kasutada
-- Lisa Githubi
+## Päev 3: Koodi kirjutamine (osa 2)
+- Lisa väljund + failisalvestus
+- Tee kasutajaliides (tekstipõhine)
+
+## Päev 4: Testimine ja täiustamine
+- Proovi erinevaid sisendeid
+- Lisa veakontrollid
+
+## Päev 5: 🔁 Kokkuvõte
+- Lisa kommentaarid
+- Kirjuta projektile README
+- Lisa GitHubi ja jaga õpetajale/tööandjale
