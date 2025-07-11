@@ -1,4 +1,4 @@
-![Baasteadmised Pythonist koos praktiliste turberakendustegta kaanepilt] (docs/python.png)
+![Baasteadmised Pythonist koos praktiliste turberakendustegta kaanepilt](docs/python.png)
 
 # 🛡️ Infoturve Python – õpi, harjuta, valmista end ette!
 
