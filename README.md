@@ -1,3 +1,5 @@
+![Baasteadmised Pythonist koos praktiliste turberakendustegta kaanepilt (docs/python.png)
+
 # 🛡️ Infoturve Python – õpi, harjuta, valmista end ette!
 
 Tere tulemast! See repo on loodud Pythonit õppivatele huvilistele, kelle eesmärk on liikuda **infoturbe valdkonda**. Projekt ühendab **baasteadmised Pythonist** koos praktiliste **turberakendustega**.
